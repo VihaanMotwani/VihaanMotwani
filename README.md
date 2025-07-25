@@ -48,10 +48,3 @@ My passion lies at the intersection of AI and business innovation, where I focus
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/vLLM-F5A623?style=for-the-badge" alt="vLLM"/>
 </p>
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VihaanMotwani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vihaan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihaanMotwani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
