@@ -22,7 +22,7 @@ My passion lies at the intersection of AI and business innovation, where I focus
 </p>
 
 <p align="left">
-  <strong>Languages & Databases:</strong><br>
+  <strong>Programming Languages:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
