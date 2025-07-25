@@ -9,3 +9,38 @@ My passion lies at the intersection of AI and business innovation, where I focus
 - 🌱 My core interests include **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Multi-Agent Systems**.
 - 💼 I have practical experience developing **multi-agent evaluation pipelines**, **GraphRAG systems**, and **real-time conversational AI** for voice agents.
 - 📫 How to reach me: **vihaanmotwani16@gmail.com** or on [**LinkedIn**](https://www.linkedin.com/in/vihaanmotwani).
+
+  ### My Tech Stack
+
+<p align="left">
+  <strong>Core Competencies:</strong><br>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4497E0?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-A855F7?style=for-the-badge" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-6E9ECF?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-F472B6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-F59E0B?style=for-the-badge" alt="Multi-Agent Systems"/>
+</p>
+
+<p align="left">
+  <strong>Languages & Databases:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<p align="left">
+  <strong>Frameworks & Libraries:</strong><br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/LangChain-14924B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+</p>
+
+<p align="left">
+  <strong>Tools & Platforms:</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/vLLM-F5A623?style=for-the-badge" alt="vLLM"/>
+</p>
