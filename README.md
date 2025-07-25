@@ -10,7 +10,7 @@ My passion lies at the intersection of AI and business innovation, where I focus
 - 💼 I have practical experience developing **multi-agent evaluation pipelines**, **GraphRAG systems**, and **real-time conversational AI** for voice agents.
 - 📫 How to reach me: **vihaanmotwani16@gmail.com** or on [**LinkedIn**](https://www.linkedin.com/in/vihaanmotwani).
 
-  ### My Tech Stack
+### My Tech Stack
 
 <p align="left">
   <strong>Core Competencies:</strong><br>
