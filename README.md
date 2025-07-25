@@ -8,5 +8,4 @@ My passion lies at the intersection of AI and business innovation, where I focus
 - 🔭 I’m currently leading development of a **scalable learning platform** featuring a RAG pipeline and agentic workflows.
 - 🌱 My core interests include **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Multi-Agent Systems**.
 - 💼 I have practical experience developing **multi-agent evaluation pipelines**, **GraphRAG systems**, and **real-time conversational AI** for voice agents.
-- 💬 Ask me about anything from **fine-tuning models with LoRA** to **automating ETL with LLMs**.
 - 📫 How to reach me: **vihaanmotwani16@gmail.com** or on [**LinkedIn**](https://www.linkedin.com/in/vihaanmotwani).
