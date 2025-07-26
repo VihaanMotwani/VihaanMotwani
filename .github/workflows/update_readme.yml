@@ -21,6 +21,5 @@ jobs:
           comment_tag_name: "ACTIVITY_SECTION"
           feed_list: "https://github.com/VihaanMotwani.atom"
           max_post_count: 5
-          template: |
-            - 📌 [$title]($url)
+          template: 📌 [$title]($url)    
           
