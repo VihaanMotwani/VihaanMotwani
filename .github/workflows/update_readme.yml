@@ -22,4 +22,5 @@ jobs:
           feed_list: "https://github.com/VihaanMotwani.atom"
           max_post_count: 5
           template: |
-            - [$title]($url)
+            - 📌 [$title]($url)
+          
