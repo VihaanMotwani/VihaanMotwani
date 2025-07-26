@@ -50,3 +50,5 @@ My passion lies at the intersection of AI and business innovation, where I focus
 </p>
 
 ## ⚡ Recent Activity
+``
+``
