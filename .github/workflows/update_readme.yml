@@ -2,12 +2,16 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
     name: Update Profile README
 
     steps:
