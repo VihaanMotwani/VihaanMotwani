@@ -1,0 +1,20 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "ACTIVITY_SECTION"
+          feed_list: "https://github.com/VihaanMotwani.atom"
+          max_post_count: 10
+          template: "$title"
