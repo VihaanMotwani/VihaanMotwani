@@ -50,4 +50,4 @@ My passion lies at the intersection of AI and business innovation, where I focus
 </p>
 
 ## ⚡ Recent Activity
-<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/cAIber/compare/6ccfdffebc...25205a33ad">VihaanMotwani pushed cAIber</a></li><li>📌 <a href="https://github.com/meta-llama/PurpleLlama">VihaanMotwani starred meta-llama/PurpleLlama</a></li><!-- ACTIVITY_SECTION:END -->
+<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/EduLLM/compare/c62090d545...6839e228a9">VihaanMotwani pushed EduLLM</a></li><li>📌 <a href="https://github.com/VihaanMotwani/cAIber/compare/6ccfdffebc...25205a33ad">VihaanMotwani pushed cAIber</a></li><li>📌 <a href="https://github.com/meta-llama/PurpleLlama">VihaanMotwani starred meta-llama/PurpleLlama</a></li><!-- ACTIVITY_SECTION:END -->
