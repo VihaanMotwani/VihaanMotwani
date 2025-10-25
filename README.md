@@ -50,4 +50,4 @@ My passion lies at the intersection of AI and business innovation, where I focus
 </p>
 
 ## ⚡ Recent Activity
-<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/Fetch/compare/9f253cacf5...cd8413be90">VihaanMotwani pushed Fetch</a></li><li>📌 <a href="https://github.com/VihaanMotwani/Fetch">VihaanMotwani made this repository public</a></li><li>📌 <a href="https://github.com/VihaanMotwani/EduLLM/compare/c62090d545...6839e228a9">VihaanMotwani pushed EduLLM</a></li><!-- ACTIVITY_SECTION:END -->
+<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/Fetch/compare/9f253cacf5...cd8413be90">VihaanMotwani pushed Fetch</a></li><li>📌 <a href="https://github.com/VihaanMotwani/Fetch">VihaanMotwani made this repository public</a></li><!-- ACTIVITY_SECTION:END -->
