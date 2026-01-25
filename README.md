@@ -50,4 +50,4 @@ My passion lies at the intersection of AI and business innovation, where I focus
 </p>
 
 ## ⚡ Recent Activity
-<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/Neural-Modeling">VihaanMotwani made this repository public</a></li><!-- ACTIVITY_SECTION:END -->
+<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/optuna/optuna-dashboard/pull/1196">VihaanMotwani contributed to optuna/optuna-dashboard</a></li><li>📌 <a href="https://github.com/VihaanMotwani/Neural-Modeling">VihaanMotwani made this repository public</a></li><!-- ACTIVITY_SECTION:END -->
