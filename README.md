@@ -11,6 +11,3 @@ What I love? Ideation and then bringing my ideas to life. I enjoy ideation becau
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vihaanmotwani).
 
 </p>
-
-## ⚡ Recent Activity
-<!-- ACTIVITY_SECTION:START --><li>📌 <a href="https://github.com/VihaanMotwani/RelayGo/compare/da587ac837...dbdb627cee">VihaanMotwani pushed RelayGo</a></li><li>📌 <a href="https://github.com/VihaanMotwani/RelayGo/compare/54e4026ef8...4cff622860">VihaanMotwani pushed RelayGo</a></li><li>📌 <a href="https://github.com/VihaanMotwani/RelayGo/compare/c7e06ed814...54e4026ef8">VihaanMotwani pushed RelayGo</a></li><li>📌 <a href="https://github.com/VihaanMotwani/RelayGo/compare/12b93c34d4...824d1bd63c">VihaanMotwani pushed RelayGo</a></li><li>📌 <a href="https://github.com/VihaanMotwani/RelayGo/pull/11">VihaanMotwani contributed to VihaanMotwani/RelayGo</a></li><!-- ACTIVITY_SECTION:END -->
