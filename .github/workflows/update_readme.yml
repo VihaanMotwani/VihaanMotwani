@@ -16,10 +16,3 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "ACTIVITY_SECTION"
-          feed_list: "https://github.com/VihaanMotwani.atom"
-          max_post_count: 5
-          template: <li>📌 <a href="$url">$title</a></li>  
-          
