@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VihaanMotwani&label=Profile%20views&color=0e75b6&style=flat" alt="vihaanmotwani" /> </p>
 
 I'm a Computer Science student at **Nanyang Technological University, Singapore**, currently a **Founder-In-Residence** in **Entrepreneurs First's Fall 26 Cohort**!
-What I love? Ideation and then bringing my ideas to life. I enjoy ideation because I get to dissect a problem or challenge into different pieces, view it from different angles and try multiple approaches until I find a solution that satisifies the requirements. Then comes optimisation, which is also pretty fun.
 
 - 🔭 I’m currently working on Agentic AI and Robotics.
 - 🌱 Always looking out for collaborators on cool projects, potential co-founders, or hackathon teammates!
